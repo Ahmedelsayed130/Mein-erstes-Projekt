@@ -1,0 +1,27 @@
+body{
+   
+    background-image: url('images/Background.png') ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div header p{
+    font-size: x-large;
+    text-align: center;
+    
+}
+table, th, td {
+    border:1px solid black 
+}
+table{
+    
+    height: 200px;
+    width: 700px;
+    text-align: center;
+    font-size: large;    
+}
+ div .Center{
+    text-align: center;
+    font-size: large;
+}
